@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-08-appointments/static/css/main.69eac22d.css",
+    "main.js": "/react-08-appointments/static/js/main.3b17dc18.js",
+    "index.html": "/react-08-appointments/index.html",
+    "main.69eac22d.css.map": "/react-08-appointments/static/css/main.69eac22d.css.map",
+    "main.3b17dc18.js.map": "/react-08-appointments/static/js/main.3b17dc18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69eac22d.css",
+    "static/js/main.3b17dc18.js"
+  ]
+}
